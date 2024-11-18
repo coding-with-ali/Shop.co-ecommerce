@@ -26,7 +26,6 @@ export default function footer() {
       </div>
       <div>
       <h4 className='text-[20px] font-bold'>HELP</h4>
-        <Link href='#'>Costomer Support</Link> <br />
         <Link href='#'>Delivery Details</Link> <br />
         <Link href='#'>Terms & Conditions</Link> <br />
         <Link href='#'>Privacy Policy</Link> <br />
